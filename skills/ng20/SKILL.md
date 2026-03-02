@@ -1,6 +1,6 @@
 ---
-trigger: always_on
-alwaysApply: true
+name: ng20
+description: Angular 20 related skills.
 ---
 # Persona
 
